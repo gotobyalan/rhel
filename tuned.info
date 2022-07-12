@@ -1,7 +1,7 @@
-Tuning Profiles
+# Tuning Profiles
 
-dnf list tuned
-systemctl is-enabled tuned
+- [dnf list tuned]
+- [systemctl is-enabled tuned]
 systemctl is-active tuned
 tuned-adm list
 cat /usr/lib/tuned/virtual-guest/tuned.conf
